@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 [![](https://img.shields.io/badge/LinkedIn-ductbm-blue)](https://www.linkedin.com/in/duc-to-23b5b6172/)
-[![](https://img.shields.io/badge/Gmail-duc.tbmd010%40gmail.com-red)](mailto:duc.tbmd@gmail.com)
+[![](https://img.shields.io/badge/Gmail-duc.tbmd%40gmail.com-red)](mailto:duc.tbmd@gmail.com)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -47,8 +47,8 @@ const ashraf = {
 ## Github Stats :
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ductbmd&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<p href="https://github.com/arturssmirnovs/github-profile-views-counter" align="center"><img src="https://gpvc.arturio.dev/acervenky"></p>
+<p href="https://github.com/ductbmd/github-profile-views-counter" align="center"><img src="https://gpvc.arturio.dev/ductbmd"></p>
 ----
-Credit: [acervenky](https://github.com/acervenky)
+Credit: [acervenky](https://github.com/ductbmd)
 
 Last Edited on: 28/03/2021
