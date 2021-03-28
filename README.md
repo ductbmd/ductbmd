@@ -1,11 +1,47 @@
-![vsneon](https://github.com/acervenky/acervenky/blob/master/assets/vsneon1.gif)\
-[![xda](https://github.com/acervenky/acervenky/blob/master/assets/xda1.gif)](https://forum.xda-developers.com/member.php?u=4561985)[![yt](https://github.com/acervenky/acervenky/blob/master/assets/yt.gif)](https://www.youtube.com/acervenky)[![in](https://github.com/acervenky/acervenky/blob/master/assets/in.gif)](https://www.linkedin.com/in/venkateshsurve/)[![blog](https://github.com/acervenky/acervenky/blob/master/assets/blog1.gif)](https://www.keytechvk.com/)
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## Work Featured On :
-<a href="https://www.xda-developers.com/customize-aod-color-miui-11-trinity-substratum-theme/"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/xda%20(2).png" width="50" height="50"></a> <a href="https://beebom.com/download-motorola-razr-retro-app-live-wallpapers-here/"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/bb.png" width="50" height="50"></a> <a href="https://www.bgr.in/news/oneplus-6-mod-turns-the-earpiece-into-second-stereo-speaker-657336/" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/bgr.png" width="50" height="50"></a> <a href="https://www.firstpost.com/tech/news-analysis/oneplus-6-mod-may-convert-the-earpiece-speaker-into-an-external-stereo-speaker-4714621.html" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/fp.png" width="50" height="50"></a> 
+## Xin chào, I'm Duc T.B.M 
+## Full Stack Developer 👨‍💻
 
-## Github Badges :
-<a href="https://docs.github.com/en/developers" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/devbadge.gif" width="40" height="40"></a>  <a href="https://archiveprogram.github.com/" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/acbadge.gif" width="40" height="40"></a> 
+<!--
+**ashrafkm/ashrafkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on VMG
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+
+
+[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/ashraf-k-m-149a3494/)
+[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:ashrafkm010@gmail.com)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const ashraf = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["app dev", "web dev", "tech"],
+    technologies:{
+        backEnd: ["java", "php", "python"],
+        fronEnd: ["vuejs"],
+        database: ["mongo","mySql","oracleSql],
+        serverless: ["aws-lambda"],
+        devOps: ["AWS", "Nginx", "Jenkins"],
+        misc: ["Firebase", "Socket.IO"]
+    },
+    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
+}
+```
 
 
 ## Github Stats :
@@ -15,4 +51,4 @@
 ----
 Credit: [acervenky](https://github.com/acervenky)
 
-Last Edited on: 19/11/2020
+Last Edited on: 28/03/2021
