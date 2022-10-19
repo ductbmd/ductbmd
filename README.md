@@ -32,7 +32,8 @@ const ashraf = {
     pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
-        backEnd: ["java", "php", "python"],
+        backEnd: ["java", "php", "python", "nodejs],
+        blockchain: ["Solidity", "Move"]
         fronEnd: ["vuejs"],
         database: ["mongo","mySql","oracleSql],
         serverless: ["aws-lambda"],
@@ -49,6 +50,6 @@ const ashraf = {
 
 <p href="https://github.com/ductbmd/github-profile-views-counter" align="center"><img src="https://gpvc.arturio.dev/ductbmd"></p>
 ----
-Credit: [acervenky](https://github.com/ductbmd)
+Credit: [DucTbm](https://github.com/ductbmd)
 
-Last Edited on: 28/03/2021
+Last Edited on: 19/10/2022
